@@ -1,0 +1,17 @@
+in terminal change the env:
+    source activate tensorflow-1209
+then:
+    jupyter notebook
+finally:
+    choose the right folder to save the .ipynb file,
+    code in Chrome.
+    done~
+
+conda:
+  create new environment:
+    conda create -n [env-name] python=[version]
+	  eg: conda create -n forTensorflow python=3.7
+  active:
+    source activate [env-name]
+  list all envs:
+    conda env list
