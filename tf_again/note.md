@@ -5,7 +5,7 @@ how long would this time last?
 I am wondering too...
 
 
-###November 30
+### November 30
 先明确一点，tensorflow 这类机器学习，做的事情就是根据 数据与结果 -> 规则
 与传统的根据 数据与规则 -> 结果不太一样
 
@@ -14,3 +14,8 @@ I am wondering too...
 
 数据处理的过程应该需要花很长时间，慢慢来，"三分钟热度也有三分钟的收获"——这阵子最有收获的一句话～
 开始吧。
+
+### December 6
+嗯，说好要开始重新学习tensorflow的，结果我还是没有动手写代码。
+我这是在积蓄能量，好一飞冲天吗？一定是，否则没法解释为什么我竟然可以立个flag，然后接下来的一个星期都不动手。
+damn it
